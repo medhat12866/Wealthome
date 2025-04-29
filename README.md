@@ -24,5 +24,5 @@ Welcome to **Wealthome**, a modern and responsive real estate landing page desig
 - **Google Fonts**
 - **Font Awesome**
 
-## 📁 Folder Structure
+
 
